@@ -18,7 +18,7 @@
         <samp>
                 「 From Sorocaba, SP (Brasil) 」
                 <br>
-                「 Front-End Developer, Computer Science Student @<b> Universidade Paulista - UNIP</b> 」
+                「 Full-Stack Developer 」
                 <br>
                 <br>
         </samp>
@@ -47,10 +47,6 @@
         <a href="https://github.com/celso-alexandre?tab=repositories" target="_blank"><img alt="ReactNative"
                         src="https://img.shields.io/badge/-ReactNative-0088CC?style=flat&logo=React&logoColor=white">
         </a>
-        <!-- VB.NET -->
-        <a href="https://github.com/celso-alexandre?tab=repositories" target="_blank"><img alt="VB.NET"
-                        src="https://img.shields.io/badge/-VisualBasic-00979D?style=flat&logo=Microsoft&logoColor=#5E5E5E">
-        </a>
 </p>
 
 <!-- Details Section-->
@@ -65,19 +61,11 @@
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
-        <a href="mailto:e.junior95@gmail.com" target="_blank"><img alt="Gmail"
+        <a href="mailto:celsoalexandre@live.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
-        <!-- Facebook -->
-        <a href="https://www.facebook.com/junior2p/" target="_blank"><img alt="Facebook"
-                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
-        </a>
-        <!-- Behance -->
-        <a href="https://www.behance.net/celso-alexandre" target="_blank"><img alt="Behance"
-                src="https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance&logoColor=white">
-        </a>
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/edvaldo-de-ramos-junior-5bb4ab19a/" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/celso-alexandre/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
     </p>
